@@ -32,10 +32,16 @@ Then We detect the face using Haar Cascade classifier after detecting frontial f
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/detect.png)
 ### Output Image
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(1).png)
-## Using Pysyft
- - First we perform normal style tranfer using pytorch then send the output to another user on same network using Pysyft, we also demonstrate that this can be send with encryption.
+## Using CNN Model
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/screen-shot-2018-05-31-at-3.43.06-pm.png)
+## We will  
 
-- If another user gets the access to the data then we make sure to retrieve the data from user.
+- Change the number of convolutional layers and see what happens.
+- Increase the size of convolutional kernels for larger images.
+- Change loss/optimization functions to see how our model responds. 
+- Add layers to prevent overfitting.
+- Change the batch_size of your data loader to see how larger batch sizes can affect our training.
+.
 ## Developer 
   Raunak Sarada  
   - [Github](https://github.com/raunak222) 
