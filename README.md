@@ -2,6 +2,15 @@
 This is a repository of my project facial keypoints detection. This is the first project of my Computer Vision  Nanodegree
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/key_pts_example.png)
 
+##Introduction:
+- Facial Key Points (FKPs) detection is an important and
+challenging problem in the field of computer vision, which
+involves detecting FKPs like centers and corners of eyes,
+nose tip, etc. The problem is to predict the (x, y) realvalued co-ordinates in the space of image pixels of the FKPs
+for a given face image. It finds its application in tracking
+faces in images and videos, analysis of facial expressions,
+detection of dysmorphic facial signs for medical diagnosis,
+face recognition, etc.
 
 ##  Motivation/Purpose: 
 - Main Purpose of this project is to detect facial keypoint from a given image dataset. So first we define the CNN Architecture for this 
@@ -10,14 +19,15 @@ This is a repository of my project facial keypoints detection. This is the first
 - Maxpooling layers
 - Fully-connected layers
 in model.py file
+Then We detect the face using Haar Cascade classifier after detecting frontial faces we pass these detected faces to trained model
 
 ##  How to Use 
 - Go through instruction [here](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Instruction.txt)
 
 ##  Some Visualization
- ### Content Image
  ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/haar_cascade_ex.png)
-### Style Image
+## Input Image
+### Output Image
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/detect.png)
 ### Output Image
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(1).png)
@@ -35,4 +45,4 @@ in model.py file
 - https://arxiv.org/pdf/1710.00977.pdf
 
 ## Citation
-- Udacity
+- Udacity Computer Vision Nanodegree
