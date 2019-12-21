@@ -11,11 +11,11 @@ This is a repository of my project facial keypoints detection. This is the first
 
 ## - Some Visualization
  ### Content Image
- ![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/albert.jpg)
+ ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/haar_cascade_ex.png)
 ### Style Image
-![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/rsz_p3.jpg)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/detect.png)
 ### Output Image
-![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/out_f.PNG)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(1).png)
 ## Using Pysyft
  - First we perform normal style tranfer using pytorch then send the output to another user on same network using Pysyft, we also demonstrate that this can be send with encryption.
 
