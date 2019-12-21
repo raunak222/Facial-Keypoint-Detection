@@ -3,7 +3,7 @@ This is a repository of my project facial keypoints detection. This is the first
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/key_pts_example.png)
 
 
-## - Motivation/Purpose: 
+##  Motivation/Purpose: 
 - Main Purpose of this project is to detect facial keypoint from a given image dataset. So first we define the CNN Architecture for this 
 ### CNN Architecture
 - Convolutional layers
@@ -11,10 +11,10 @@ This is a repository of my project facial keypoints detection. This is the first
 - Fully-connected layers
 in model.py file
 
-## - How to Use 
+##  How to Use 
 - Go through instruction [here](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Instruction.txt)
 
-## - Some Visualization
+##  Some Visualization
  ### Content Image
  ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/haar_cascade_ex.png)
 ### Style Image
