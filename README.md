@@ -2,7 +2,7 @@
 This is a repository of my project facial keypoints detection. This is the first project of my Computer Vision  Nanodegree
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/key_pts_example.png)
 
-##Introduction:
+## Introduction:
 - Facial Key Points (FKPs) detection is an important and
 challenging problem in the field of computer vision, which
 involves detecting FKPs like centers and corners of eyes,
@@ -27,6 +27,7 @@ Then We detect the face using Haar Cascade classifier after detecting frontial f
 ##  Some Visualization
  ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/haar_cascade_ex.png)
 ## Input Image
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(3).png)
 ### Output Image
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/detect.png)
 ### Output Image
