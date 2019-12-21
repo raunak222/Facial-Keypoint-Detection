@@ -4,10 +4,15 @@ This is a repository of my project facial keypoints detection. This is the first
 
 
 ## - Motivation/Purpose: 
-- Main Purpose of this project is, that during any importent image transfering process if Somebody tries to get the data and interupt the process then this program will make sure that receiver will not receive the data as data may be harmful or infected with viruses  In order to provide more security.
+- Main Purpose of this project is to detect facial keypoint from a given image dataset. So first we define the CNN Architecture for this 
+### CNN Architecture
+- Convolutional layers
+- Maxpooling layers
+- Fully-connected layers
+in model.py file
 
 ## - How to Use 
-- Go through instruction [here](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/Instruction.txt)
+- Go through instruction [here](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Instruction.txt)
 
 ## - Some Visualization
  ### Content Image
@@ -25,9 +30,9 @@ This is a repository of my project facial keypoints detection. This is the first
   - [Github](https://github.com/raunak222) 
   - [linkedin](https://www.linkedin.com/in/raunak-sarada)
 ## Resources 
-- https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+- https://github.com/udacity/P1_Facial_Keypoints
 - https://blog.openmined.org
-- https://arxiv.org/abs/1508.06576
+- https://arxiv.org/pdf/1710.00977.pdf
 
 ## Citation
-- arXiv:1508.06576 [cs.CV]
+- Udacity
