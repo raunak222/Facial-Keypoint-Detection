@@ -33,7 +33,7 @@ Then We detect the face using Haar Cascade classifier after detecting frontial f
 ### Output Image
 ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/download%20(1).png)
 ## Using CNN Model
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/images/screen-shot-2018-05-31-at-3.43.06-pm.png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/screen-shot-2018-05-31-at-3.43.06-pm.png)
 ## We will  
 
 - Change the number of convolutional layers and see what happens.
