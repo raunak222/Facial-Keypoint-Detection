@@ -1,6 +1,6 @@
 # Facial-Keypint-Detection
 This is a repository of my project facial keypoints detection. This is the first project of my Computer Vision  Nanodegree
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/key_pts_example.png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/key_pts_example.png)
 
 ## Introduction:
 - Facial Key Points (FKPs) detection is an important and
@@ -25,15 +25,15 @@ Then We detect the face using Haar Cascade classifier after detecting frontial f
 - Go through instruction [here](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Instruction.txt)
 
 ##  Some Visualization
- ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/haar_cascade_ex.png)
+ ![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/haar_cascade_ex.png)
 ## Input Image
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(3).png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/download%20(3).png)
 ### Output Image
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/detect.png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/detect.png)
 ### Output Image
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/download%20(1).png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/Images/download%20(1).png)
 ## Using CNN Model
-![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/screen-shot-2018-05-31-at-3.43.06-pm.png)
+![alt text](https://github.com/raunak222/Facial-Keypint-Detection/blob/master/images/screen-shot-2018-05-31-at-3.43.06-pm.png)
 ## We will  
 
 - Change the number of convolutional layers and see what happens.
